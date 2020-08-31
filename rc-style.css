@@ -1,10 +1,13 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background: chartreuse;
     font-weight: normal;
     font-size: 16px;
     margin: 0 auto;
 }
+h1 {font-family: 'Raleway', sans-serif;}
+h2 {font-family: 'Raleway', sans-serif;}
+h3 {font-family: 'Raleway', sans-serif;}
 .wrapper{
     background: white;
     margin: 0%;
